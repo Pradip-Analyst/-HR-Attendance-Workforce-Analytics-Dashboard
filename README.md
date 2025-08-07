@@ -51,12 +51,3 @@ This dashboard enables stakeholders to:
 
 ---
 
-## 🔗 How to Use
-
-1. Clone or download the repository
-2. Open the `.pbix` file in Power BI Desktop
-3. Review or modify visuals, measures, and data model as needed
-
----
-
-> 🚨 Note: All employee names and identifiers have been anonymized for confidentiality.
